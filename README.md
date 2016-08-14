@@ -10,5 +10,7 @@ open android app and material design basics.
 
 Here's a walkthrough of the app:
 
+<img src='https://gifyu.com/images/popular_movies.gif' title='Youplus Video Walkthrough' width='' alt='Youplus Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
