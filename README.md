@@ -10,6 +10,5 @@ open android app and material design basics.
 
 Here's a walkthrough of the app:
 
-<img src='http://i.imgur.com/YMLCfEi.gif' title='Popular movie Video Walkthrough' width='' alt='Popular movie Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
